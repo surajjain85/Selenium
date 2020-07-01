@@ -1,0 +1,11 @@
+1. create build file (check the version names of the file passed in selenium, test Ng and saxon file)
+2. create .xml file for TestNG
+3. create xslt
+4. open project and copy project location
+5. open cmd (run as ant build file)
+
+Create Lib folder
+1. copy testng 6.9.9.jar file
+2. selenium - server-standalon 2.53 file
+3. saxonliaison.jar
+4. saxon-8.7.jar
